@@ -21,14 +21,3 @@
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![Coffee](https://img.shields.io/badge/-Coffee-6F4E37?style=flat-square&logo=coffee&logoColor=white)
 
----
-
-## 📆 Today’s Update
-📅 **오늘 날짜:** `date +%Y-%m-%d`  
-🎯 **현재 목표:** "ROS2 + AI 기반 경로 계획 최적화"  
-📜 **오늘의 명언:** "코드가 실행된다면, 그건 기적이다."
-
----
-
-👀 **원하는 것 골라서 프로필에 추가하면 됨!** 🚀  
-💡 **독창적이고 유니크한 프로필을 만들어보자!** 😆
