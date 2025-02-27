@@ -25,4 +25,3 @@
 
 ### 🎯 Random Fun
 ![Random Cat GIF](https://cataas.com/cat/gif)  
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight)
