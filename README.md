@@ -1,9 +1,5 @@
 # 🚀 Welcome to My GitHub!
 > "코드 한 줄로 세상을 바꿀 수 있다면, 나는 못바꾼다.."
-> 📆 **오늘 날짜:** `date +%Y-%m-%d`
-🎯 **현재 목표:** "ROS2 + AI 기반 경로 계획 최적화"
-📜 **오늘의 명언:** "코드가 실행된다면, 그건 기적이다."
-
 
 👨‍💻 **AI & Robotics Engineer | ROS2 & Computer Vision | Coffee Addict ☕**  
 🎯 **Currently learning:** Path Planning, Motion Control, AI-based Robotics  
