@@ -1,20 +1,20 @@
 # 🚀 Welcome to My GitHub!
-> "코드 한 줄로 세상을 바꿀 수 있다면, 나는 못바꾼다.."
+> "코드 한 줄로 세상을 바꿀 수 있다면, 나는 매일 혁명을 일으킨다."  
 
 👨‍💻 **AI & Robotics Engineer | ROS2 & Computer Vision | Coffee Addict ☕**  
 🎯 **Currently learning:** Path Planning, Motion Control, AI-based Robotics  
-📌 **Fun fact:** 제 코드는 버그를 만듭니다... *단, 의도하지 않았을 뿐* 😂  
+📌 **Fun fact:** 제 코드는 버그를 만들지 않습니다... *단, 의도하지 않았을 뿐* 😂  
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight)
 
 ---
 
-### 🛠 Tech Stack
+## 🎯 My Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -23,5 +23,12 @@
 
 ---
 
-### 🎯 Random Fun
-![Random Cat GIF](https://cataas.com/cat/gif)  
+## 📆 Today’s Update
+📅 **오늘 날짜:** `date +%Y-%m-%d`  
+🎯 **현재 목표:** "ROS2 + AI 기반 경로 계획 최적화"  
+📜 **오늘의 명언:** "코드가 실행된다면, 그건 기적이다."
+
+---
+
+👀 **원하는 것 골라서 프로필에 추가하면 됨!** 🚀  
+💡 **독창적이고 유니크한 프로필을 만들어보자!** 😆
